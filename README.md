@@ -5,6 +5,10 @@ Transfer learning Project
 2. Image Augmentation is done to reduce overfitting and improve overall model validation accuracy
 3. Technologies used: Python, Keras, tensorflow
 
+### Dataset Description
+I have used the [Animals-10](https://www.kaggle.com/alessiocorrado99/animals10) dataset publicly available on kaggle. The dataset contains 10 different classes of animals(dog, cat, horse, spyder, butterfly, chicken, sheep, cow, squirrel, elephant.). Each different class has 2000 - 5000 pictures. The total number of pictures in that dataset is around 28,000. This photos were taken from google. 
+
+
 ### Results
 | Model                    	| Training Data 	| Accuracy 	|
 |--------------------------	|---------------	|----------	|
